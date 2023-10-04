@@ -5,7 +5,7 @@
 
 
 
-Форк RL pytorch-based фреймворка 
+Является форком RL pytorch-based фреймворка 
 RL Baselines3 Zoo (https://github.com/DLR-RM/stable-baselines3).
 ## Стратегия с используемыми ограничениями ConstrainedActorCriticPolicy 
 опеределена в
