@@ -5,6 +5,7 @@
 
 Полный текст статьи https://rdcu.be/c0Bbb
 
+
 Используемая среда https://github.com/james116blue/cwcf-env-openai-gym
 
 
